@@ -1,0 +1,10 @@
+{
+    "program": "fixedpointnumbers.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkpDi1twdWSKNezHao78qm4KSdZrsBZ6Ja4d43zuo9SkPAX",
+        "address": "aleo1y9a8q8292fqknrvupfryt0lwnah5q322g3lxrwgwymx2dlh84v8s5f8llu"
+    },
+    "license": "MIT"
+}
